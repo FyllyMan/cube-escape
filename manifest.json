@@ -1,9 +1,9 @@
 {
   "version": "0.1.0",
   "executable": "Cube.exe",
-  "generatedAt": "2026-11-26T17:19:30.636Z",
+  "generatedAt": "2026-11-26T17:30:12.502Z",
   "patchNotes": "",
-  "totalSize": 299652850,
+  "totalSize": 269271284,
   "files": {
     "Cube_Data/app.info": {
       "sha256": "b12aa9aa39cc46e5ae3b32ebf2f6904a2ed49d297f914b114f97840825da1f7f",
@@ -816,126 +816,6 @@
     "Cube_Data/sharedassets0.assets.resS": {
       "sha256": "393efe6399536384aa91bdfc4e64f244b4d3e1fbb6a4ff145c483ffee64ccb36",
       "size": 524288
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/config": {
-      "sha256": "7d124e88e05afea79b08bdc03949e393650dde189030748f5b0625ca788be9cb",
-      "size": 317
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/description": {
-      "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
-      "size": 73
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/FETCH_HEAD": {
-      "sha256": "8384cca8828dc033701f855e14903ba3aec39769216cfa296e6ac4764fddd17c",
-      "size": 112
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/HEAD": {
-      "sha256": "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10",
-      "size": 23
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/applypatch-msg.sample": {
-      "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
-      "size": 478
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/commit-msg.sample": {
-      "sha256": "efc1401b0e99d1ff51494d154d98b46c1e99059bcd8bf9f73cecde19fd3eb23b",
-      "size": 1972
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/fsmonitor-watchman.sample": {
-      "sha256": "9159720099ad5595b8e66645cbfd47763c1e920f46e0b50ae75e642bbec57ef0",
-      "size": 4611
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/post-update.sample": {
-      "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
-      "size": 189
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/pre-applypatch.sample": {
-      "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
-      "size": 424
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/pre-commit.sample": {
-      "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
-      "size": 1649
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/pre-merge-commit.sample": {
-      "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
-      "size": 416
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/pre-push.sample": {
-      "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
-      "size": 1374
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/pre-rebase.sample": {
-      "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
-      "size": 4898
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/pre-receive.sample": {
-      "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
-      "size": 544
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/prepare-commit-msg.sample": {
-      "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
-      "size": 1492
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/push-to-checkout.sample": {
-      "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
-      "size": 2783
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/sendemail-validate.sample": {
-      "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
-      "size": 2308
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/hooks/update.sample": {
-      "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
-      "size": 3650
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/index": {
-      "sha256": "3deff93f69425786e01731f6c5d34e4aba7041ef1dd3a5d705fa12720e159ea7",
-      "size": 236576
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/info/exclude": {
-      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
-      "size": 240
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/logs/HEAD": {
-      "sha256": "96bb76182e9520e2a5a2a48eea753090b2ad23c5e0042fc69b73ee2b6fe8088a",
-      "size": 204
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/logs/refs/heads/master": {
-      "sha256": "96bb76182e9520e2a5a2a48eea753090b2ad23c5e0042fc69b73ee2b6fe8088a",
-      "size": 204
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/logs/refs/remotes/origin/HEAD": {
-      "sha256": "96bb76182e9520e2a5a2a48eea753090b2ad23c5e0042fc69b73ee2b6fe8088a",
-      "size": 204
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/objects/pack/pack-42a563d69af436888154f33d15ba8afbda61ec59.idx": {
-      "sha256": "fdc5b99d48b7bae6a574160343dc4b0b79ab025e2a39676da394cdeb7d7c202b",
-      "size": 66564
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/objects/pack/pack-42a563d69af436888154f33d15ba8afbda61ec59.pack": {
-      "sha256": "9171b880134fc6f1bf09757d2417a65089c93fedf89522d38cc1eb0769640bd7",
-      "size": 30040625
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/objects/pack/pack-42a563d69af436888154f33d15ba8afbda61ec59.rev": {
-      "sha256": "2d17c24b1d5784729803ba7a7da89bb709bd1cdf27375bf10e15c041a35d41d4",
-      "size": 9408
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/ORIG_HEAD": {
-      "sha256": "8f12bc2d303c518203702431a4fa02997896a240e46a413a099729cd72a391b1",
-      "size": 41
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/packed-refs": {
-      "sha256": "0e35dcb9de335f37cecd561871d28c71d16ccc3a616cfbc13f8fd87f858c83b4",
-      "size": 114
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/refs/heads/master": {
-      "sha256": "8f12bc2d303c518203702431a4fa02997896a240e46a413a099729cd72a391b1",
-      "size": 41
-    },
-    "Cube_Data/StreamingAssets/realvirtual-MCP/.git/refs/remotes/origin/HEAD": {
-      "sha256": "cdc65e67690c4c6475174e5ec662b70655246a2f3924354778835ab3be70aa76",
-      "size": 32
     },
     "Cube_Data/StreamingAssets/realvirtual-MCP/.gitignore": {
       "sha256": "6d0887f76ceabba2494137aa5062c9dfdbf40968e1172b53088225ba3f021449",
