@@ -1,9 +1,9 @@
 {
   "version": "0.1.1",
   "executable": "Cube.exe",
-  "generatedAt": "2026-11-27T20:17:18.271Z",
-  "patchNotes": "0.1.1\r\nMade hatch interactions more realistic with distance for interaction\r\nName tags when close to a player\r\nTweaked visuals for traps and procedural sounds\r\nMaterials and lighting tweaks and improvements\r\nMade join codes hidden by default and can be made visible by holding right click while hovering over it. Left click will copy it without revealing it.\r\nVoice chat with settings. 3D positional with occlusion (untested fully)",
-  "totalSize": 240672535,
+  "generatedAt": "2026-11-27T20:45:40.615Z",
+  "patchNotes": "0.1.1\r\nMade hatch interactions more realistic with distance for interaction\r\nName tags when close to a player\r\nTweaked visuals for traps and procedural sounds\r\nMaterials and lighting tweaks and improvements\r\nMade join codes hidden by default and can be made visible by holding right click while hovering over it. Left click will copy it without revealing it.\r\nVoice chat with settings. 3D positional with occlusion (untested fully)\r\nFixed seams where lights leaked through.\r\nRedesigned UI to make them easier to read and be less straining, also added mic indicators to lobby names and host controls for kicking and muting players.",
+  "totalSize": 240684711,
   "files": {
     "Cube_BackUpThisFolder_ButDontShipItWithYourGame/x86_64/lib_burst_generated.txt": {
       "sha256": "181556dfb1a45f559f326e986a70beca3edde461ec03fcc97bc19952136c790c",
@@ -14,28 +14,28 @@
       "size": 19
     },
     "Cube_Data/boot.config": {
-      "sha256": "6e6e518b161a6a97c8b76e071970d1e3a5d232227c44af438088efe085299528",
+      "sha256": "94d465705a30581442eb7dca60976bfbcd818139925231a23b388f5ed9c5dd65",
       "size": 156
     },
     "Cube_Data/globalgamemanagers": {
-      "sha256": "f3d09217d663d6b0c8912376f7f16ddaa8e997ba140071d3093bb2e59d522446",
-      "size": 217476
+      "sha256": "32fb58132d12853c31795f2cc569d52c89b448fb98909f85413f64349ee849c6",
+      "size": 217556
     },
     "Cube_Data/globalgamemanagers.assets": {
-      "sha256": "d1984852f12b01043fd8d5887d3e2614c45de317f32c5cd903f7a3695bfd8579",
-      "size": 1411512
+      "sha256": "b0a0bcd4536557eb4d9da8de9b2687e892f8616ba2d97cc3bf5d6a7f1af27f7d",
+      "size": 1411736
     },
     "Cube_Data/globalgamemanagers.assets.resS": {
       "sha256": "26b24bbd0bdb7017ecbac3b829c0ed7c4848bc343af5702e96ebdb75a7258b04",
       "size": 6174944
     },
     "Cube_Data/level0": {
-      "sha256": "ded58ca72960c5cfd660598ef14a2d84a9a08ffe8079d85f4f5dfde7b6068d83",
+      "sha256": "5b3352c1be50a5790a942ded20449efa19e468554293d6e64f74c5828dec237d",
       "size": 2948
     },
     "Cube_Data/Managed/Assembly-CSharp.dll": {
-      "sha256": "45498e15c03b75ba35d4c8fe10526b3b3e269a6febabba1dadedfd3383bd1531",
-      "size": 237056
+      "sha256": "45412fd97bc45dbcc799c9fb54fb2a901ecf0ad9471e27701c1aebbac172e3fa",
+      "size": 245248
     },
     "Cube_Data/Managed/Mono.Security.dll": {
       "sha256": "92c374092ab38e2e5fe9750376d1499addc4d5369e2aad650f52d4cf7c80c3c6",
@@ -786,8 +786,8 @@
       "size": 16938920
     },
     "Cube_Data/resources.assets": {
-      "sha256": "fb6566832ae0872bf3729046ccbc4ccd4fe0c049e02d24f2604d959e70e1867c",
-      "size": 10782040
+      "sha256": "006ac6f687ed973dcd5056a7c2ad2692ace04aee41e2ed1a374c4dcdf9377c73",
+      "size": 10785704
     },
     "Cube_Data/resources.assets.resS": {
       "sha256": "ac3898a4cbb79b9f34b98913454beed9e2bf3971e8d7dbf7c5c0a876ef5de894",
@@ -810,8 +810,8 @@
       "size": 5915
     },
     "Cube_Data/sharedassets0.assets": {
-      "sha256": "ee00594ae4ba237d571e82b79daf80aed6e56c33255902c8e5804445b3543f84",
-      "size": 16304
+      "sha256": "046bb14d45f92f8a0a70612f7622460c5bc57fe78e509025a8b8d0d250a94a0f",
+      "size": 16320
     },
     "Cube_Data/sharedassets0.assets.resS": {
       "sha256": "393efe6399536384aa91bdfc4e64f244b4d3e1fbb6a4ff145c483ffee64ccb36",
