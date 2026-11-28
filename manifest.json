@@ -1,9 +1,9 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "executable": "Cube.exe",
-  "generatedAt": "2026-11-27T20:45:40.615Z",
-  "patchNotes": "0.1.1\r\nMade hatch interactions more realistic with distance for interaction\r\nName tags when close to a player\r\nTweaked visuals for traps and procedural sounds\r\nMaterials and lighting tweaks and improvements\r\nMade join codes hidden by default and can be made visible by holding right click while hovering over it. Left click will copy it without revealing it.\r\nVoice chat with settings. 3D positional with occlusion (untested fully)\r\nFixed seams where lights leaked through.\r\nRedesigned UI to make them easier to read and be less straining, also added mic indicators to lobby names and host controls for kicking and muting players.",
-  "totalSize": 240684711,
+  "generatedAt": "2026-11-28T00:32:20.349Z",
+  "patchNotes": "0.1.2\r\nRemoved flickering room lights\r\nLowered bright of wall lighting for easier vision and more consistent moody lighting\r\nFixed stuck UI text when killed by a trap\r\nAll traps can be triggered by throwing boots\r\nBetter syncing of players to remove lag and glitchy spectating\r\nThird person spectator camera with wall collision\r\nBoots have an outline when thrown to help find them\r\nIK physics based movement and player ragdolls (early testing)\r\n\r\n0.1.1\r\nMade hatch interactions more realistic with distance for interaction\r\nName tags when close to a player\r\nTweaked visuals for traps and procedural sounds\r\nMaterials and lighting tweaks and improvements\r\nMade join codes hidden by default and can be made visible by holding right click while hovering over it. Left click will copy it without revealing it.\r\nVoice chat with settings. 3D positional with occlusion (untested fully)\r\nFixed seams where lights leaked through.\r\nRedesigned UI to make them easier to read and be less straining, also added mic indicators to lobby names and host controls for kicking and muting players.",
+  "totalSize": 240720895,
   "files": {
     "Cube_BackUpThisFolder_ButDontShipItWithYourGame/x86_64/lib_burst_generated.txt": {
       "sha256": "181556dfb1a45f559f326e986a70beca3edde461ec03fcc97bc19952136c790c",
@@ -14,15 +14,15 @@
       "size": 19
     },
     "Cube_Data/boot.config": {
-      "sha256": "94d465705a30581442eb7dca60976bfbcd818139925231a23b388f5ed9c5dd65",
+      "sha256": "8db704c3e8165dc8f75deb94837b59791b5b35b2b464976c9a637800fba6aa89",
       "size": 156
     },
     "Cube_Data/globalgamemanagers": {
-      "sha256": "32fb58132d12853c31795f2cc569d52c89b448fb98909f85413f64349ee849c6",
-      "size": 217556
+      "sha256": "27d0a0c6647b40f4fcd4089f2b699c5b9d60fb870b6f114957b61d79878c232a",
+      "size": 217620
     },
     "Cube_Data/globalgamemanagers.assets": {
-      "sha256": "b0a0bcd4536557eb4d9da8de9b2687e892f8616ba2d97cc3bf5d6a7f1af27f7d",
+      "sha256": "ae35b253e913500d9f1de2220366903f9a13f7ebb4b2b60806d6f2cb05d7f997",
       "size": 1411736
     },
     "Cube_Data/globalgamemanagers.assets.resS": {
@@ -34,8 +34,8 @@
       "size": 2948
     },
     "Cube_Data/Managed/Assembly-CSharp.dll": {
-      "sha256": "45412fd97bc45dbcc799c9fb54fb2a901ecf0ad9471e27701c1aebbac172e3fa",
-      "size": 245248
+      "sha256": "3979e1971a3889405fe89536d6e87b62eec692c94753a2fb7320faedd1db8a59",
+      "size": 269824
     },
     "Cube_Data/Managed/Mono.Security.dll": {
       "sha256": "92c374092ab38e2e5fe9750376d1499addc4d5369e2aad650f52d4cf7c80c3c6",
@@ -786,12 +786,12 @@
       "size": 16938920
     },
     "Cube_Data/resources.assets": {
-      "sha256": "006ac6f687ed973dcd5056a7c2ad2692ace04aee41e2ed1a374c4dcdf9377c73",
-      "size": 10785704
+      "sha256": "5e472ea061ab2ecba82928dfe90d19531ec0150b6e60d3830856a304f6046cd2",
+      "size": 10810000
     },
     "Cube_Data/resources.assets.resS": {
-      "sha256": "ac3898a4cbb79b9f34b98913454beed9e2bf3971e8d7dbf7c5c0a876ef5de894",
-      "size": 63130176
+      "sha256": "bcdc79ac16c6fb43e57934102298b6227e8c9b36fa6a764f0699392817cd0b11",
+      "size": 63117344
     },
     "Cube_Data/Resources/unity default resources": {
       "sha256": "696b9afaee02b5d45978634f1450ef18423c19177933b997fd8ee364d70cdd61",
@@ -810,8 +810,8 @@
       "size": 5915
     },
     "Cube_Data/sharedassets0.assets": {
-      "sha256": "046bb14d45f92f8a0a70612f7622460c5bc57fe78e509025a8b8d0d250a94a0f",
-      "size": 16320
+      "sha256": "aa33ce6558dc7af5cbdbe2ca3a3bc03cacea96d13b56b9d0399b891e2aa2121b",
+      "size": 16400
     },
     "Cube_Data/sharedassets0.assets.resS": {
       "sha256": "393efe6399536384aa91bdfc4e64f244b4d3e1fbb6a4ff145c483ffee64ccb36",
